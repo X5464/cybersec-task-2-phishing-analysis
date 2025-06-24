@@ -77,7 +77,6 @@ GitHub: [@X5464](https://github.com/X5464)
 This GitHub repository was created and submitted as part of **Task 2** of the Elevate Cyber Security Internship.  
 It demonstrates practical knowledge in phishing detection, technical writing, and GitHub documentation.
 
-📬 [Google Form Submission Link](https://forms.gle/8Gm83s53KbyXs3Ne9)
 
 ---
 
